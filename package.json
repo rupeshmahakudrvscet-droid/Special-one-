@@ -1,0 +1,15 @@
+{
+  "name": "secret-birthday-gift",
+  "version": "1.0.0",
+  "description": "An interactive, beautifully animated Shinchan-themed birthday surprise web application",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "start": "npx --yes serve . -l 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
